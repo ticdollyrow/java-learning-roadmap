@@ -1,7 +1,7 @@
 package com.java_learning.list;
 
 import java.util.*;
-import java.util.stream.Collectors;
+
 
 public class ListTest2 {
     static void main() {
